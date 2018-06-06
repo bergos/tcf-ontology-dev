@@ -468,6 +468,9 @@
 <http://tcftest.org/schema/temperatureKelvin> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcftest.org/schema/Temperature> .
 <http://tcftest.org/schema/temperatureKelvin> <http://www.w3.org/2000/01/rdf-schema#label> "Temperature in Kelvin" .
 <http://tcftest.org/schema/temperatureKelvin> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#decimal> .
+<http://tcftest.org/schema/TestClass> <http://purl.org/dc/terms/modified> "2018-06-06T19:17:18.635Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/TestClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://tcftest.org/schema/TestClass> <http://www.w3.org/2000/01/rdf-schema#label> "Test Class" .
 <http://tcftest.org/schema/TestClass1> <http://purl.org/dc/terms/modified> "2018-05-01T14:09:16.543Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://tcftest.org/schema/TestClass1> <http://www.w3.org/2000/01/rdf-schema#label> "Test Class 1" .
 <http://tcftest.org/schema/TrackUpdate> <http://purl.org/dc/terms/modified> "2018-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
