@@ -318,6 +318,13 @@
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#description> "test" .
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#label> "NewClass" .
+<http://tcftest.org/schema/NewClassWithNewProperty> <http://purl.org/dc/terms/modified> "2018-07-19T13:43:24.014Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/NewClassWithNewProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://tcftest.org/schema/NewClassWithNewProperty> <http://www.w3.org/2000/01/rdf-schema#label> "New Class with new Property" .
+<http://tcftest.org/schema/newProperty> <http://purl.org/dc/terms/modified> "2018-07-19T13:43:24.014Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/newProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://tcftest.org/schema/LogisticsObject> .
+<http://tcftest.org/schema/newProperty> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcftest.org/schema/NewClassWithNewProperty> .
+<http://tcftest.org/schema/newProperty> <http://www.w3.org/2000/01/rdf-schema#label> "New Property" .
 <http://tcftest.org/schema/notifiedTimestamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://tcftest.org/schema/notifiedTimestamp> <http://www.w3.org/2000/01/rdf-schema#description> "A time stamp for the notification of the status update ." .
 <http://tcftest.org/schema/notifiedTimestamp> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcftest.org/schema/AirStatusUpdate> .
