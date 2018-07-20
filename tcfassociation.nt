@@ -318,11 +318,11 @@
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#description> "test" .
 <http://tcftest.org/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#label> "NewClass" .
-<http://tcftest.org/schema/NewClassWithNewProperty> <http://localhost:8080/schema/example> "<http://example.org/subject> <http://example.org/predicate> \"object\" ." .
-<http://tcftest.org/schema/NewClassWithNewProperty> <http://purl.org/dc/terms/modified> "2018-07-20T18:59:37.634Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/NewClassWithNewProperty> <http://localhost:8080/schema/example> "<http://example.org/subject> <http://example.org/predicate> \"object1\" ." .
+<http://tcftest.org/schema/NewClassWithNewProperty> <http://purl.org/dc/terms/modified> "2018-07-20T19:01:42.463Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://tcftest.org/schema/NewClassWithNewProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://tcftest.org/schema/NewClassWithNewProperty> <http://www.w3.org/2000/01/rdf-schema#label> "New Class with new Property" .
-<http://tcftest.org/schema/newProperty> <http://purl.org/dc/terms/modified> "2018-07-20T18:59:37.634Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/newProperty> <http://purl.org/dc/terms/modified> "2018-07-20T19:01:42.463Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://tcftest.org/schema/newProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://tcftest.org/schema/newProperty> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcftest.org/schema/NewClassWithNewProperty> .
 <http://tcftest.org/schema/newProperty> <http://www.w3.org/2000/01/rdf-schema#label> "New Property" .
