@@ -106,7 +106,8 @@
 <http://tcftest.org/schema/cargoVolume> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcftest.org/schema/Port> .
 <http://tcftest.org/schema/cargoVolume> <http://www.w3.org/2000/01/rdf-schema#label> "Cargo Weight" .
 <http://tcftest.org/schema/cargoVolume> <http://www.w3.org/2000/01/rdf-schema#range> <http://tcftest.org/schema/Port> .
-<http://tcftest.org/schema/ClassWithExample> <http://purl.org/dc/terms/modified> "2018-07-20T19:28:11.729Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/ClassWithExample> <http://purl.org/dc/terms/modified> "2018-07-20T19:29:05.289Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/ClassWithExample> <http://tcftest.org/schema/example> "<http://example.org/subject> <http://example.org/predicate> \"object\" ." .
 <http://tcftest.org/schema/ClassWithExample> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://tcftest.org/schema/ClassWithExample> <http://www.w3.org/2000/01/rdf-schema#label> "Class with example" .
 <http://tcftest.org/schema/CommercialInvoice> <http://purl.org/dc/terms/modified> "2017-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
