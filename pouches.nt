@@ -54,6 +54,7 @@
 <http://tcftest.org/pouch/RailPouch> <http://www.w3.org/2000/01/rdf-schema#label> "Rail Pouch" .
 <http://tcftest.org/pouch/ShippersPouch> <http://purl.org/dc/terms/modified> "2017-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://tcftest.org/pouch/ShippersPouch> <http://schema.org/contributor> <http://tcftest.org/pouch/org/PanalpinaAB> .
+<http://tcftest.org/pouch/ShippersPouch> <http://schema.org/hasPart> <http://tcftest.org/schema/ClassWithExample> .
 <http://tcftest.org/pouch/ShippersPouch> <http://schema.org/hasPart> <http://tcftest.org/schema/Consignment> .
 <http://tcftest.org/pouch/ShippersPouch> <http://schema.org/hasPart> <http://tcftest.org/schema/DangerousGoodsDeclaration> .
 <http://tcftest.org/pouch/ShippersPouch> <http://schema.org/hasPart> <http://tcftest.org/schema/EmptyGood> .
